@@ -1,0 +1,10 @@
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\Segmentation.exe
+C:\Selective_Search\Segmentation\Segmentation\obj\Debug\netcoreapp3.1\Segmentation.csprojAssemblyReference.cache
+C:\Selective_Search\Segmentation\Segmentation\obj\Debug\netcoreapp3.1\Segmentation.AssemblyInfoInputs.cache
+C:\Selective_Search\Segmentation\Segmentation\obj\Debug\netcoreapp3.1\Segmentation.AssemblyInfo.cs
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Selective_Search\Segmentation\Segmentation\obj\Debug\netcoreapp3.1\Segmentation.csproj.CopyComplete
