@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7G5KKaQ2+CuTVrFlWlp68tioYnBpC9hNLiPYw9PJBBDjQwmhnYCujNZKrh0nS3951WPuwYns5JkUn9HgaoosmA==",
+  "success": true,
+  "projectFilePath": "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
