@@ -1,0 +1,4 @@
+C:\Selective_Search\Segmentation\ContourAnalysis\bin\Debug\netstandard2.0\ContourAnalysis.deps.json
+C:\Selective_Search\Segmentation\ContourAnalysis\bin\Debug\netstandard2.0\ContourAnalysis.dll
+C:\Selective_Search\Segmentation\ContourAnalysis\obj\Debug\netstandard2.0\ContourAnalysis.AssemblyInfoInputs.cache
+C:\Selective_Search\Segmentation\ContourAnalysis\obj\Debug\netstandard2.0\ContourAnalysis.AssemblyInfo.cs
