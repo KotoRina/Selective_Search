@@ -10,6 +10,7 @@ namespace ImageProcess
         public double G { get; set; }
         public double B { get; set; }
         public double A { get; set; }
+        
         public long X { get; set; }
         public long Y { get; set; }
     }

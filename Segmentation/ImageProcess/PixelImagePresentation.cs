@@ -20,6 +20,10 @@ namespace ImageProcess
 
         public PixelImagePresentation(string path)
         {
+            Path = path;
+
+            Bitmap image = new Bitmap(path);
+            PixelMatrix = GetMatrixFromBitmap(image);
         }
 
         public Pixel[,] GetMatrixFromBitmap(Bitmap image)
