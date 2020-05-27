@@ -112,6 +112,32 @@
         "compile": {
           "ref/netstandard1.5/_._": {}
         }
+      },
+      "ContourAnalysis/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Emgu.CV.runtime.windows": "4.2.0.3662"
+        },
+        "compile": {
+          "bin/placeholder/ContourAnalysis.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContourAnalysis.dll": {}
+        }
+      },
+      "ImageProcess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.Drawing.Common": "4.7.0"
+        },
+        "compile": {
+          "bin/placeholder/ImageProcess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ImageProcess.dll": {}
+        }
       }
     }
   },
@@ -463,11 +489,23 @@
         "system.runtime.extensions.4.3.0.nupkg.sha512",
         "system.runtime.extensions.nuspec"
       ]
+    },
+    "ContourAnalysis/1.0.0": {
+      "type": "project",
+      "path": "../ContourAnalysis/ContourAnalysis.csproj",
+      "msbuildProject": "../ContourAnalysis/ContourAnalysis.csproj"
+    },
+    "ImageProcess/1.0.0": {
+      "type": "project",
+      "path": "../ImageProcess/ImageProcess.csproj",
+      "msbuildProject": "../ImageProcess/ImageProcess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ContourAnalysis >= 1.0.0",
       "Emgu.CV.runtime.windows >= 4.2.0.3662",
+      "ImageProcess >= 1.0.0",
       "System.Drawing.Common >= 4.7.0",
       "System.Drawing.Primitives >= 4.3.0"
     ]
@@ -504,7 +542,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj": {
+              "projectPath": "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj"
+            },
+            "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj": {
+              "projectPath": "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -9,6 +9,7 @@ namespace ContourAnalysis
     public class BinaryImage
     {
         public Mat Image { get; set; }
+        
         public BinaryImage()
         {
         }

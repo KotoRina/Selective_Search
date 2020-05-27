@@ -35,3 +35,7 @@ C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\x86\opencv
 C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\x86\vcruntime140.dll
 C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\Emgu.CV.World.NetStandard.dll
 C:\Selective_Search\Segmentation\Segmentation\obj\Debug\netcoreapp3.1\Segmentation.csproj.CoreCompileInputs.cache
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\ContourAnalysis.dll
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\ImageProcess.dll
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\ContourAnalysis.pdb
+C:\Selective_Search\Segmentation\Segmentation\bin\Debug\netcoreapp3.1\ImageProcess.pdb

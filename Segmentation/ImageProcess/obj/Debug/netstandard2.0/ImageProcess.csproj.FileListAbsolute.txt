@@ -1,0 +1,9 @@
+C:\Selective_Search\Segmentation\ImageProcess\bin\Debug\netstandard2.0\ImageProcess.deps.json
+C:\Selective_Search\Segmentation\ImageProcess\bin\Debug\netstandard2.0\ImageProcess.dll
+C:\Selective_Search\Segmentation\ImageProcess\bin\Debug\netstandard2.0\ImageProcess.pdb
+C:\Selective_Search\Segmentation\ImageProcess\obj\Debug\netstandard2.0\ImageProcess.csprojAssemblyReference.cache
+C:\Selective_Search\Segmentation\ImageProcess\obj\Debug\netstandard2.0\ImageProcess.csproj.CoreCompileInputs.cache
+C:\Selective_Search\Segmentation\ImageProcess\obj\Debug\netstandard2.0\ImageProcess.AssemblyInfoInputs.cache
+C:\Selective_Search\Segmentation\ImageProcess\obj\Debug\netstandard2.0\ImageProcess.AssemblyInfo.cs
+C:\Selective_Search\Segmentation\ImageProcess\obj\Debug\netstandard2.0\ImageProcess.dll
+C:\Selective_Search\Segmentation\ImageProcess\obj\Debug\netstandard2.0\ImageProcess.pdb
