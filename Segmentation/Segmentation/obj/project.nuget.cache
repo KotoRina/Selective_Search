@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YsYGdCRaoaNk7YrnTWzrJCVeChdY4UAWMhI+XaoZheeD3y1zDsiOaJFvO7uTPmYqwIOnlgokgQL5f4/cphh/HQ==",
+  "dgSpecHash": "HMoBISye2DR2nKDyDOqeMTIZWF4pKE7oN+eXRDnIPDWKM9R/xl2jIGViJWObDSfZRi5fcIq9b75UhWDkcbYUyQ==",
   "success": true,
-  "projectFilePath": "C:\\Selective_Search\\Segmentation\\Segmentation\\Segmentation.csproj",
+  "projectFilePath": "C:\\Selective_Search_1\\Segmentation\\Segmentation\\Segmentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\emgu.cv\\4.2.0.3662\\emgu.cv.4.2.0.3662.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\emgu.cv.runtime.windows\\4.2.0.3662\\emgu.cv.runtime.windows.4.2.0.3662.nupkg.sha512",

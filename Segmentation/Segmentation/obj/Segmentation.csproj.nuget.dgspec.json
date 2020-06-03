@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Selective_Search\\Segmentation\\Segmentation\\Segmentation.csproj": {}
+    "C:\\Selective_Search_1\\Segmentation\\Segmentation\\Segmentation.csproj": {}
   },
   "projects": {
-    "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj": {
+    "C:\\Selective_Search_1\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj",
+        "projectUniqueName": "C:\\Selective_Search_1\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj",
         "projectName": "ContourAnalysis",
-        "projectPath": "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj",
+        "projectPath": "C:\\Selective_Search_1\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\obj\\",
+        "outputPath": "C:\\Selective_Search_1\\Segmentation\\ContourAnalysis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj": {
+    "C:\\Selective_Search_1\\Segmentation\\ImageProcess\\ImageProcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj",
+        "projectUniqueName": "C:\\Selective_Search_1\\Segmentation\\ImageProcess\\ImageProcess.csproj",
         "projectName": "ImageProcess",
-        "projectPath": "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj",
+        "projectPath": "C:\\Selective_Search_1\\Segmentation\\ImageProcess\\ImageProcess.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Selective_Search\\Segmentation\\ImageProcess\\obj\\",
+        "outputPath": "C:\\Selective_Search_1\\Segmentation\\ImageProcess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Selective_Search\\Segmentation\\Segmentation\\Segmentation.csproj": {
+    "C:\\Selective_Search_1\\Segmentation\\Segmentation\\Segmentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Selective_Search\\Segmentation\\Segmentation\\Segmentation.csproj",
+        "projectUniqueName": "C:\\Selective_Search_1\\Segmentation\\Segmentation\\Segmentation.csproj",
         "projectName": "Segmentation",
-        "projectPath": "C:\\Selective_Search\\Segmentation\\Segmentation\\Segmentation.csproj",
+        "projectPath": "C:\\Selective_Search_1\\Segmentation\\Segmentation\\Segmentation.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Selective_Search\\Segmentation\\Segmentation\\obj\\",
+        "outputPath": "C:\\Selective_Search_1\\Segmentation\\Segmentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -160,11 +160,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj": {
-                "projectPath": "C:\\Selective_Search\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj"
+              "C:\\Selective_Search_1\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj": {
+                "projectPath": "C:\\Selective_Search_1\\Segmentation\\ContourAnalysis\\ContourAnalysis.csproj"
               },
-              "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj": {
-                "projectPath": "C:\\Selective_Search\\Segmentation\\ImageProcess\\ImageProcess.csproj"
+              "C:\\Selective_Search_1\\Segmentation\\ImageProcess\\ImageProcess.csproj": {
+                "projectPath": "C:\\Selective_Search_1\\Segmentation\\ImageProcess\\ImageProcess.csproj"
               }
             }
           }
