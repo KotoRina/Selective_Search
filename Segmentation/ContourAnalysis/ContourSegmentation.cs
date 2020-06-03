@@ -37,7 +37,6 @@ namespace ContourAnalysis
             List<Rectangle> Box = new List<Rectangle>();
             for (int i = 0; i < contours.Size; i++)
             {
-                //TODO: сортировка по площади
                 Box.Add(CvInvoke.BoundingRectangle(contours[i]));
             }
 

@@ -18,8 +18,8 @@ namespace Segmentation
     {
         static void Main(string[] args)
         {
-            string inputPath = @"C:\Selective_Search\Assets\input_1.jpg";
-            string outputPath = @"C:\Selective_Search\Assets\outputConture.jpg";
+            string inputPath = @"C:\Selective_Search_1\Assets\Input\input_1.jpg";
+            string outputPath = @"C:\Selective_Search_1\Assets\Output\outputConture.jpg";
             
             Mat matInput = new Mat(inputPath);
 
@@ -30,7 +30,7 @@ namespace Segmentation
             ContourSegmentation.DelineationOfRectangles(matInput, Box, outputPath);
 
 
-            Console.WriteLine("1");
+            Console.WriteLine("Done");
         }
     }
 }
